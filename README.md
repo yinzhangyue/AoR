@@ -42,6 +42,9 @@ Please ensure you have the following requirements installed:
 
 Our dataset originates from [Large Language Models are Zero-Shot Reasoners](https://github.com/kojima-takeshi188/zero_shot_cot/tree/main/dataset), generously shared by Takeshi Kojima. We employ prompts from [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf) to guide models in generating initial reasoning processes.
 
+Additionally, we share some of the outputs from the **Local Scoring**, **Global Evaluation**, and **Dynamic Sampling** phases through [Google Drive](https://drive.google.com/drive/folders/1HZs0N04xjArKvec-bj8s_IZRMULsluHG?usp=sharing).
+
+
 
 ## Quick Start 🚀
 
